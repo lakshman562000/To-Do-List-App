@@ -15,4 +15,4 @@ Features:
 Technologies Used:
 - HTML
 - CSS
-- JavaScript
+
