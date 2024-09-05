@@ -15,7 +15,7 @@ This app allows users to:
 # Technologies Used:
 - HTML
 - CSS
-- 
+  
 # Contributions
 All contributors are most welcome! This is definitely open source!
 # WEBSITE DEMO
