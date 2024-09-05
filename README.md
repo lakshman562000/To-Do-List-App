@@ -1,5 +1,5 @@
 # To-Do-List-App
-A simple and intuitive to-do list app built with HTML, CSS and JavaScript.
+A simple and intuitive to-do list app built with HTML & CSS.
 This app allows users to: 
 - Create and manage their to-do lists
 - Add, edit, and delete tasks
